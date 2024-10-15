@@ -9,17 +9,16 @@ Follow the steps below to set up the Sustainability Calculator on your local mac
 
 - Download Node.js from the [official website](https://nodejs.org/).
 
-### 2. Clone Project:
+### 2. Install the Project:
 
 ```bash
-mkdir sustainability-calculator
-cd sustainability-calculator
+https://github.com/BFH-WING/BFH-Sustainability-Calculator-Template.git
 ```
 
 ### 3. Initialize a new Node.js project:
 
 ```bash
-npm init -y
+npm init
 ```
 
 ### 4. Install Express:
